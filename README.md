@@ -23,3 +23,5 @@ Let's try bigger combination and see how many words we would get
 
 
 ![example](https://github.com/secsalem/CrazyCaser/assets/122979557/b85589d2-380e-4c0c-8590-29f1fc7d650c)
+
+We get 65536 different combinations
