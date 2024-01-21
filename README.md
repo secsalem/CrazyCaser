@@ -9,10 +9,11 @@ git clone https://github.com/secsalem/CrazyCaser.git
 Usage:
 
 ```
-python CrazyCaser.py 
+python CrazyCaser.py
+Enter a word: data
 ```
 
 Example:
 
 
-![example](https://github.com/secsalem/CrazyCaser/assets/122979557/ad8fa9a6-b117-4622-9aa3-4494078fef82)
+![example1](https://github.com/secsalem/CrazyCaser/assets/122979557/b8f879f5-005a-468d-956d-6f5401283f3e)
