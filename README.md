@@ -22,4 +22,4 @@ Example:
 Let's try bigger combination and see how many words we would get 
 
 
-![example1](https://github.com/secsalem/CrazyCaser/assets/122979557/b259d39c-8c31-4908-af66-1253971e411b)
+![example](https://github.com/secsalem/CrazyCaser/assets/122979557/b85589d2-380e-4c0c-8590-29f1fc7d650c)
