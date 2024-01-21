@@ -15,6 +15,8 @@ Usage:
 
 ```
 python CrazyCaser.py
+OR
+./CrazyCaser.py
 Enter a word: data
 ```
 
