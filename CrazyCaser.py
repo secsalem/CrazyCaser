@@ -14,5 +14,10 @@ word = input("Enter a word: ")
 
 combinations = change_case_combinations(word)
 
-for variation in combinations:
-    print(variation)
+# Write combinations to a text file
+output_file = "case_variations.txt"
+with open(output_file, "w") as file:
+    for variation in combinations:
+        file.write(variation + "\n")
+
+print(f"Case variations written to {output_file}")
