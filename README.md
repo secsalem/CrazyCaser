@@ -6,6 +6,11 @@ Installation:
 ```
 git clone https://github.com/secsalem/CrazyCaser.git
 ```
+```
+chmod +x CrazyCaser.py
+./CrazyCaser.py
+```
+
 Usage:
 
 ```
