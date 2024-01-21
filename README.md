@@ -23,7 +23,7 @@ Enter a word: data
 Example:
 
 
-![example1](https://github.com/secsalem/CrazyCaser/assets/122979557/b8f879f5-005a-468d-956d-6f5401283f3e)
+![example1](https://github.com/secsalem/CrazyCaser/assets/122979557/3744cb63-cd6d-490d-911a-64e0fbc3c3f5)
 
 
 Let's try bigger combination and see how many words we would get 
