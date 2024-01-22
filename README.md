@@ -1,5 +1,5 @@
 # CrazyCaser
-The idea come from when i was trying too look for XSS WAF bypass, one of the ways was changing some letters from uppercase to lowercase which leads to waf bypass, if you find this tool helpful please let me know.
+The idea come from when i was trying too look for XSS WAF bypass, one of the ways was changing some letters from uppercase to lowercase which leads to waf bypass, if you find this tool helpful thank Chatgpt lol. 
 
 CrazyCaser: A case variation tool that transforms text into a mix of upper and lower cases
 
